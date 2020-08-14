@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.id {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  font-size: 18px;
+  height: 100vh;
+  width: 100vw;
+}
+.main {
+  margin: auto;
+  margin-top: 10%;
+}
+
+.input {
+  min-width: 10%;
+  font-size: 18px;
+}
+.text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
