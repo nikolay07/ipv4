@@ -43,6 +43,7 @@ function App() {
         placeholder="0"
         onChange={handleChange}
         className="input"
+        value={num}
       />
       <br />
       <div className="text">
